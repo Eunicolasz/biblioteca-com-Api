@@ -1,0 +1,46 @@
+{
+    "Livros": [
+      {
+        "id": 1,
+        "titulo": "Pequeno Principe",
+        "autor": "desconhecido",
+        "anoPublicado": "01.01.2023",
+        "genero": "drama"
+      },
+      {
+        "id": 2,
+        "titulo": "O senhor dos anéis",
+        "autor": "desconhecido",
+        "anoPublicado": "01.01.2023",
+        "genero": "drama"
+      },
+      {
+        "id": 3,
+        "titulo": "O homem mais rico da babilônia",
+        "autor": "terrencio",
+        "anoPublicado": "01.01.2023",
+        "genero": "drama"
+      },
+      {
+        "id": 4,
+        "titulo": "O pequeno principe",
+        "autor": "arnold",
+        "anoPublicado": "10.10.2023",
+        "genero": "misterio"
+      },
+      {
+        "id": 5,
+        "titulo": "E Não sobrou nenhum",
+        "autor": "anteteguemon",
+        "anoPublicado": "00.00.2000",
+        "genero": "comedia"
+      },
+      {
+        "id": 564,
+        "titulo": "gol",
+        "autor": "arnold",
+        "anoPublicado": 2000,
+        "genero": "gol"
+      }
+    ]
+  }

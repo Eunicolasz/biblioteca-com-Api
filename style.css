@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Inter:wght@500&family=Roboto:wght@400;500&display=swap');
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.retangulo{
+    display: flex;
+    width: 1922px;
+    height: 70px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.cadastro{
+    display: flex;
+    margin-left: 1700px;
+    margin-top: -45px;
+    padding-left: 3%;
+    justify-content: space-between;
+    
+
+    
+}
+.login{
+    margin-left: 750px;
+    margin-top: -400px;
+    color: aliceblue;
+    
+
+}
+.register{
+    margin-left: 750px;
+    margin-top: -400px;
+    color: aliceblue;
+}
+.box{
+    width: 500px;
+    height: 600px;
+    margin-left: 670px;
+    margin-top: 100px;
+    background-color: rgb(57, 57, 57);
+    border-radius: 5%;
+
+}
+body{
+    background-color: gray;
+    
+}
+.trocapagina{
+    margin-left: 870px;
+    margin-top: 50px;
+}
+
+
+h1{
+    text-align: center;
+    margin-left: -850px;
+    
+}
+.cadastro2{
+    left: 600px;
+    margin-top: 50px;
+}
+
+.pesquisa{
+    display: flex;
+    margin-top: -20px;
+    margin-left: 100px;
+}
+.perfil{
+        margin-top: -35px;
+        background-color: white;
+        color: white;
+        padding: 5px;
+        height: 30px;
+        width: 30px;
+        border-radius: 30px;
+}
+
+.logo{
+    margin-left: -1600px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+main{
+    width: 100%;
+    max-width: 300px;
+}
+
+.divSearch {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+input {
+    padding: 5px;
+    outline: none;
+}
+
+.card{
+    top: 200px;
+    width: 100px;
+}
+
+
+
+
+
+
